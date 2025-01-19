@@ -22,7 +22,7 @@ body{
 }
 
 #home {
-    background-image: url(CIELCAFEhomee.jpg);
+    background-image: url(../CIELCAFEhomee.jpg);
     min-height: 100vh;
 }
 
@@ -31,7 +31,7 @@ body{
 }
 
 #news{
-    background-image:url(./IMA201607242916142_TP_V.jpg);
+    background-image:url(../IMA201607242916142_TP_V.jpg);
     height: 300px;
     margin-bottom: 40px;
 }
@@ -41,14 +41,14 @@ body{
 }
 
 #menu{
-    background-image:url(./CIELCAFE＿＿menu.png);
+    background-image:url(../CIELCAFE＿＿menu.png);
     min-height: 100vh;
     height: 300px;
     margin-bottom: 100px;
 }
 
 #contact{
-    background-image: url(./coffee-4484290_1280.jpg);
+    background-image: url(../coffee-4484290_1280.jpg);
     min-height: 100vh;
 }
 
